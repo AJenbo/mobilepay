@@ -3,11 +3,10 @@
     "description": "Luxplus implementation of MobilePay API Subscription 2.0.0.",
     "type": "library",
     "require": {
-        "nesbot/carbon": "^1.22|2.*",
+        "nesbot/carbon": "^1.22|2.*|^3.0",
         "php": ">=7.0"
     },
     "require-dev": {
-        "nesbot/carbon": "^1.22",
         "vlucas/phpdotenv": "^2.4"
     },
     "license": "BSD-3-Clause",
